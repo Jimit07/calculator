@@ -1,2 +1,2 @@
 # calculator
- Simple CalculatorApp fir beginners
+ Simple Calculator App for beginners who want to learn Html Css and Javascript
